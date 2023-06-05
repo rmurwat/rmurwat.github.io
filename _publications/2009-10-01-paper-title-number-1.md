@@ -1,12 +1,12 @@
 ---
-title: "Exploring the Synthesis and Coordination Chemistry of Pentafluorophenylcopper: Organocopper Polyanions and Coordination Netowrks"
+title: "Exploring the Synthesis and Coordination Chemistry of Pentafluorophenylcopper: Organocopper Polyanions and Coordination Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-pentafluorophenylcopper
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Organometallics'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://pubs.acs.org/doi/10.1021/acs.organomet.0c00570)'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://pubs.acs.org/doi/10.1021/acs.organomet.0c00570'
+citation: 'Murray-Watson and Pike (2020). &quot;Exploring the Synthesis and Coordination Chemistry of Pentafluorophenylcopper: Organocopper Polyanions and Coordination Netowrks&quot; <i>Organometallics</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
