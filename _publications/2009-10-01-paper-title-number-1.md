@@ -8,6 +8,3 @@ venue: 'Organometallics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Murray-Watson and Pike (2020). &quot;Exploring the Synthesis and Coordination Chemistry of Pentafluorophenylcopper: Organocopper Polyanions and Coordination Networks.&quot; <i>Organometallics</i>. 1(1).'
 ---
-
-[Download paper here](https://pubs.acs.org/doi/10.1021/acs.organomet.0c00570)
-
