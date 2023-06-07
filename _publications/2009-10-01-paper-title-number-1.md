@@ -2,7 +2,6 @@
 title: "Exploring the Synthesis and Coordination Chemistry of Pentafluorophenylcopper: Organocopper Polyanions and Coordination Networks"
 collection: publications
 permalink: /publication/2020-pentafluorophenylcopper
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-10-14
 venue: 'Organometallics'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.organomet.0c00570'
