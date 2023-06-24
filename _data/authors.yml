@@ -1,18 +1,19 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Rebecca Murray-Watson"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  email       : "rebecca.murray-watson@imperial.ac.uk"
+  bio         : "PhD student at the Department of Physics, Imperial College London. Data Analyst."
+  avatar      : "headshot.jpg"
   twitter     : "name"
   google_plus : "Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
+  name        : "Rebecca Murray-Watson"
+  uri         : "http://name.com"
+  email       : "rebecca.murray-watson@imperial.ac.uk"
+  bio         : "PhD student at the Department of Physics, Imperial College London. Data Analyst."
+  avatar      : "headshot.jpg"
+  twitter     : "name"
   google_plus : "Name"
