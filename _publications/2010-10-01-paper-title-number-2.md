@@ -10,6 +10,3 @@ citation: 'Murray-Watson and Gryspeerdt (2022). &quot;Stability-dependent increa
 ---
 This study focuses on the impact of aerosols on cloud properties in the Arctic region, which is important for understanding the role of clouds in the Arctic's energy balance and their contribution to climate change. By analyzing satellite data, we found that the relationship between cloud droplet concentration and cloud liquid water path varies across the region. While global studies generally show a negative response of LWP to aerosols, we show a positive response at very high latitudes during summer months. The study also highlights the significance of lower tropospheric stability (LTS) and humidity in influencing the relationship between aerosols and LWP. We find a temperature-dependent aerosol indirect effect and an aerosol-dependent cloud feedback, which could lead to lower cloud water paths as the Arctic becomes more polluted and the LTS decreases in the future. These changes may have implications for sea ice extent.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
