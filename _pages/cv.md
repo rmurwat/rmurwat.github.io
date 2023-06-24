@@ -66,6 +66,7 @@ Selected Training
 * Deep Learning Specialization – deeplearning.ai (distance learning)
 * Environmental Big Data, Modelling, Risk and Uncertainty, Translating Research into Practice-Grantham Institute, Imperial College London
 * Data Engineer Specialization - codecademy.com (distance learning)
+* An Introduction to Polar Fieldwork for Early Career Researchers - British Antarctic Survey (in Svalbard)
 
 Departmental Responsibilities
 ======
