@@ -15,19 +15,29 @@ Education
 * MSci Chemistry, 2.1, University of Cambridge, 2018
 * MSc Environmental Modelling, Distinction, University College London, 2020
 * Ph.D Physics, Imperial College London, 2023 (expected)
+- Supervisors: Dr. Edward Gryspeerdt and Professor Helen Brindley
+- Affiliated with the Grantham Institute’s Science and Solutions for a Changing Planet Doctoral Training Partnership
+- Thesis: Aerosol-cloud interactions in a changing Arctic
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Data Science Intern
+  * Little Place Labs through the UK Space Agency SPIN Internship Scheme
+  * Worked with the data science team to develop machine learning pipelines for image classification and object detection tasks for a satellite edge computing project
+  * Conducted market analysis and developed research proposals for climate-related projects
+  * Developed familiarity with machine learning frameworks, computer vision algorithms and AWS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autumn 2022 - Present: Data Analyst (Part-time)
+  * ScaleTone Ltd
+  * Analyse open-source datasets to derive insights on prevailing trends within the US healthcare industry
+  * Develop a diverse array of data visualizations for use on client sites
+
+* Summer 2019: Research Assistant
+  * School of Earth and Environment, University of Leeds
+  * Analysed UK Chemistry and Aerosols model output data and in situ measurements to investigate the impact of aerosols on cloud properties over Greenland
+  * Gained strong working knowledge of standard Python geospatial libraries
+  * Supervisor: Dr. Daniel Grosvenor
   
 Skills
 ======
