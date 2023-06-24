@@ -52,14 +52,31 @@ Work experience
   * Gained strong working knowledge of standard Python geospatial libraries
   * Supervisor: Dr. Daniel Grosvenor
   
-Skills
+Key Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Extensive experience analysing, processing, and visualising earth observation and model data 
+* Technical skills: Python (4+ years of experience), Google Earth Engine (intermediate), High Performance Computing (intermediate), MatLab (basic), GIS tools (ArcGis, QGis; basic)
+* Literature review and extensive writing for specialist and non-specialist audiences
+
+Selected Training
+======
+* Introduction to High-Performance Computing, Essential Software Engineering, Optimisation and Profiling in Python, Object-Oriented Python, Introduction to Julia, Introduction to Git and Github, Github for Collaboration 
+- Imperial College London Graduate School
+* Mathematics for Machine Learning - Imperial College London (distance learning)
+* Deep Learning Specialization – deeplearning.ai (distance learning)
+* Environmental Big Data, Modelling, Risk and Uncertainty, Translating Research into Practice-Grantham Institute, Imperial College London
+* Data Engineer Specialization - codecademy.com (distance learning)
+
+Departmental Responsibilities
+======
+* EDI Committee Member, Grantham Institute, Imperial College London
+* Atmosphere-Ocean Weekly Seminar Convenor, Department of Physics, Imperial College London
+* Student Representative, Staff-Student Consultative Committee, Department of Geography, UCL
+* Outreach and Engagement Volunteer, Christ’s College, University of Cambridge
+* BSc project supervisor, Imperial College London
+
+
+
 
 Publications
 ======
@@ -79,6 +96,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
