@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MA Natural Sciences (Chemistry), 1st, University of Cambridge, 2014-2017
+* MSci Chemistry, 2.1, University of Cambridge, 2018
+* MSc Environmental Modelling, Distinction, University College London, 2020
+* Ph.D Physics, Imperial College London, 2023 (expected)
+
 
 Work experience
 ======
