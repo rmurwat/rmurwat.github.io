@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "BSc Project Supervision"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate project"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Physics, Imperial College London"
+date: 2022
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I had the opportunity to co-supervise a pair of BSc projects focused on the comparative analysis of liquid water path measurements in the Arctic, obtained from different satellite sources. The main objective was to investigate and identify the underlying factors contributing to variations between the datasets.
