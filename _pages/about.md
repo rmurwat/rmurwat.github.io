@@ -7,7 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome! I'm Rebecca Murray-Watson, a PhD candidate at Imperial College London. I specialize in studying aerosol-cloud interactions in the Arctic. Through my research, I harness satellite data to address and better understand some of the most pressing environmental and climate issues of our time.
 
+
+I'm working on my PhD in the Space and Atmospheric Physics Group at the Department of Physics, Imperial College London, where I began my research journey in October 2020. In addition to my departmental affiliation, I am closely associated with the Science and Solutions for a Changing Planet Doctoral Training Partnership at the Grantham Institute for Climate Change and the Environment.
+
+My research project, under the guidance of Dr. Edward Gryspeerdt and co-supervision by Dr. Helen Brindley, focuses on aerosol-cloud interactions within Arctic clouds. Understanding the influence of aerosols on cloud physical properties, and consequently their net radiative effect, is crucial for decoding the surface energy budget—a topic of utmost significance in our rapidly warming Arctic. With model estimates showing considerable variation in their predictions on aerosol-cloud interactions, my research endeavors to bring clarity to this domain by utilizing state-of-the-art satellite observations and diverse datasets to shed light on aerosols' impact on Arctic clouds.
+
+Before my time at Imperial, I pursued an MSc in Environmental Modelling at University College London. There, I researched the long-range transport of aerosols from the 2019/2020 Australian wildfires and their subsequent impact on cloud microphysics under the supervision of Professor Jan-Peter Muller. Earlier, I obtained an MA and MSci in Natural Sciences (Chemistry) from the University of Cambridge, during which I worked with Dr. Sebastian Pike, investigating the structure and reactivity of organo-copper complexes.
+
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +57,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
