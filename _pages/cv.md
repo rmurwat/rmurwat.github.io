@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+A Physics Ph.D. candidate with a solid foundation in environmental modeling and a passion for data analysis, with hands-on experience in machine learning and earth observation data.
 
 # Education
 
@@ -37,16 +38,16 @@ _1st_
 
 # Work Experience
 
+**Data Analyst (Part-time), Autumn 2022 - Present**  
+_ScaleTone Ltd_
+- Analysed open-source datasets for insights on US healthcare industry trends
+- Developed diverse data visualizations for client sites
+
 **Data Science Intern, Summer 2022**  
 _Little Place Labs through the UK Space Agency SPIN Internship Scheme_
 - Developed machine learning pipelines for image classification & object detection tasks for satellite edge computing
 - Market analysis & research proposal development for climate-related projects
 - Gained familiarity with machine learning frameworks, computer vision algorithms & AWS
-
-**Data Analyst (Part-time), Autumn 2022 - Present**  
-_ScaleTone Ltd_
-- Analysed open-source datasets for insights on US healthcare industry trends
-- Developed diverse data visualizations for client sites
 
 **Research Assistant, Summer 2019**  
 _School of Earth and Environment, University of Leeds_
