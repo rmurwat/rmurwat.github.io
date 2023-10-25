@@ -7,14 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm Rebecca Murray-Watson, a PhD candidate at Imperial College London. I specialize in studying aerosol-cloud interactions in the Arctic. Through my research, I harness satellite data to address and better understand some of the most pressing environmental and climate issues of our time.
+Welcome! I'm Rebecca Murray-Watson, a PhD candidate at Imperial College London. I specialize in studying aerosol-cloud interactions in the Arctic. Through my research, I harness satellite data to address and better understand some of the most pressing environmental and climate issues of our time. 
 
 
-I'm working on my PhD in the Space and Atmospheric Physics Group at the Department of Physics, Imperial College London, where I began my research journey in October 2020. In addition to my departmental affiliation, I am closely associated with the Science and Solutions for a Changing Planet Doctoral Training Partnership at the Grantham Institute for Climate Change and the Environment.
+I'm working on my PhD in the Space and Atmospheric Physics Group at the Department of Physics, Imperial College London, where joined in October 2020. I am also associated with the Science and Solutions for a Changing Planet Doctoral Training Partnership at the Grantham Institute for Climate Change and the Environment.
 
-My research project, under the guidance of Dr. Edward Gryspeerdt and co-supervision by Dr. Helen Brindley, focuses on aerosol-cloud interactions within Arctic clouds. Understanding the influence of aerosols on cloud physical properties, and consequently their net radiative effect, is crucial for decoding the surface energy budget—a topic of utmost significance in our rapidly warming Arctic. With model estimates showing considerable variation in their predictions on aerosol-cloud interactions, my research endeavors to bring clarity to this domain by utilizing state-of-the-art satellite observations and diverse datasets to shed light on aerosols' impact on Arctic clouds.
+My research project, supervised by Dr. Edward Gryspeerdt and co-supervision by Dr. Helen Brindley, focuses on aerosol-cloud interactions within Arctic clouds. Understanding the influence of aerosols on cloud physical properties, and consequently their net radiative effect, is crucial for decoding the surface energy budget—a topic of utmost significance in our rapidly warming Arctic. With model estimates showing considerable variation in their predictions on aerosol-cloud interactions, my research reduce this uncertainty by utilizing state-of-the-art satellite observations and diverse datasets to shed light on aerosols' impact on Arctic clouds. My reserach has been published in several academic papers, which you can see [here](https://rmurwat.github.io/publications/). 
 
 Before my time at Imperial, I pursued an MSc in Environmental Modelling at University College London. There, I researched the long-range transport of aerosols from the 2019/2020 Australian wildfires and their subsequent impact on cloud microphysics under the supervision of Professor Jan-Peter Muller. Earlier, I obtained an MA and MSci in Natural Sciences (Chemistry) from the University of Cambridge, during which I worked with Dr. Sebastian Pike, investigating the structure and reactivity of organo-copper complexes.
+
+During my academic pursuits, I've undertaken research trips and internships worldwide. My experiences range from work in the Pacaya-Samiria National Reserve in Peru and the UK Arctic Research Station in Svalbard to a summer at ETH Zurich as a visitng student.
 
 
 <!-- 
