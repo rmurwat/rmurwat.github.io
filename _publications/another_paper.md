@@ -2,7 +2,7 @@
 title: "Observing short-timescale cloud development to constrain aerosol–cloud interactions"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2022-09-09
 venue: 'Atmospheric Chemistry and Physics'
 paperurl: 'https://acp.copernicus.org/articles/22/11727/2022/acp-22-11727-2022.html'

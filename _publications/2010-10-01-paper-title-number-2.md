@@ -2,7 +2,7 @@
 title: "Stability-dependent increases in liquid water with droplet number in the Arctic"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2022-05-03
 venue: 'Atmospheric Chemistry and Physics'
 paperurl: 'https://acp.copernicus.org/articles/22/5743/2022/acp-22-5743-2022.html'
