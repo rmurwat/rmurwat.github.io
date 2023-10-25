@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 **Ph.D Physics**  
-_Imperial College London, Expected 2023_
+_Imperial College London, Expected 2024_
 - Supervisors: Dr. Edward Gryspeerdt & Professor Helen Brindley
 - Affiliated with the Grantham Institute’s Science and Solutions for a Changing Planet Doctoral Training Partnership
 - Thesis: _Aerosol-cloud interactions in a changing Arctic_
